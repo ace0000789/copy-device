@@ -42,7 +42,7 @@
  }
 
  /*header*/
- 
+
  .page-header {
    background-color: #FFE17F;
    color: #000000;
@@ -140,9 +140,7 @@
  }
 
  /*main-index.html*/
-
  /*products*/
-
  .large-name {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
@@ -156,7 +154,6 @@
  }
 
  /*slider-table*/
-
  .details-index {
    font-size: 36px;
    color: #000000;
@@ -167,7 +164,6 @@
  }
 
  /*group-product*/
-
  .group-product-link {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
@@ -178,7 +174,6 @@
  }
 
  /*services*/
-
  .services {
    background-color: #F0F0F0;
  }
@@ -189,7 +184,6 @@
  }
 
  /*delivery*/
-
  .exclusive-product {
    background-color: #F0F0F0;
  }
