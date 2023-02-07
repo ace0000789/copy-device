@@ -85,13 +85,11 @@
  .compare {
   margin-right: 36px;
  }
-
  .basket::before {
   content: url("../images/header/basket.svg");
   background-repeat: no-repeat;
   margin-right: 12px;
  }
-
  /*header-navigation*/
 
  .navigation-item a {
