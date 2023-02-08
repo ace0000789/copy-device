@@ -90,13 +90,15 @@
  .compare {
   margin-right: 36px;
  }
- 
+
  .basket::before {
   content: url("../images/header/basket.svg");
   background-repeat: no-repeat;
   margin-right: 12px;
  }
+
  /*header-navigation*/
+
  .navigation-item a {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
@@ -106,6 +108,7 @@
    text-decoration: none;
    letter-spacing: 0.2em;
  }
+ 
  .catalog-item .navigation-link {
    font-family: 'Rubik', sans-serif;
    font-weight: 400;
