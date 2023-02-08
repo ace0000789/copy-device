@@ -122,18 +122,21 @@
    background-color: #444444;
    color: #FFFFFF;
  }
- 
+
  .page-footer a {
    color: #FFFFFF;
  }
+
  .footer-info address {
    font-weight: 400;
    font-size: 16px;
    line-height: 20px;
    font-style: normal;
  }
+
  /*main-index.html*/
  /*products*/
+ 
  .large-name {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
