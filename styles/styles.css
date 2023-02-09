@@ -76,7 +76,6 @@
   background-repeat: no-repeat;
   margin-right: 13px;
  }
-
  .entry {
   margin-right: 26px;
  }
@@ -219,6 +218,7 @@
  }
 
  /*mailing*/
+
  .mailing {
    background-color: #F0F0F0;
  }
@@ -245,6 +245,7 @@
  }
 
  /*main-catalog-monopods.html*/
+ 
  .breadcrumbs-link {
    font-weight: 400;
    font-size: 16px;
