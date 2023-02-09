@@ -79,7 +79,6 @@
  .entry {
   margin-right: 26px;
  }
-
  .compare::before {
   content: url("../images/header/img-comapre.svg");
   background-repeat: no-repeat;
