@@ -30,7 +30,7 @@
    background-color: #FFFFFF;
    color: #444444;
  }
- 
+
 
  .button {
    font-family: 'Raleway', sans-serif;
@@ -43,8 +43,10 @@
    text-decoration: none;
  }
 
+
  /*header*/
 
+ 
  .page-header {
    background-color: #FFE17F;
    color: #000000;
