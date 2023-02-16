@@ -80,14 +80,17 @@
   background-repeat: no-repeat;
   margin-right: 13px;
  }
+
  .entry {
   margin-right: 26px;
  }
+
  .compare::before {
   content: url("../images/header/img-comapre.svg");
   background-repeat: no-repeat;
   margin-right: 12px;
  }
+ 
  .compare {
   margin-right: 36px;
  }
