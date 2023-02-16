@@ -31,7 +31,6 @@
    color: #444444;
  }
 
-
  .button {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
@@ -122,7 +121,9 @@
    text-transform: none;
  }
 
- /*footer*/7 .page-footer {
+ /*footer*/
+ 
+ .page-footer {
    background-color: #444444;
    color: #FFFFFF;
  }
@@ -153,6 +154,10 @@
  }
 
  /*slider-table*/
+
+ .table-cell{
+ }
+
  .details-index {
    font-size: 36px;
    color: #000000;
