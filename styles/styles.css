@@ -67,7 +67,7 @@
    background-color: #FFE17F;
    text-align: center;
  }
- 
+
  .user {
    font-weight: 400;
    color: #000000;
@@ -101,7 +101,6 @@
  }
  
  /*header-navigation*/
-
  .navigation-item a {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
@@ -111,7 +110,6 @@
    text-decoration: none;
    letter-spacing: 0.2em;
  }
-
  .catalog-item .navigation-link {
    font-family: 'Rubik', sans-serif;
    font-weight: 400;
