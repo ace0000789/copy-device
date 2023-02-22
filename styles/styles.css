@@ -5,6 +5,7 @@
    src: url(../fonts/raleway/raleway-800.woff2) format("woff2");
    font-display: swap;
  }
+
  @font-face {
    font-family: 'Rubik';
    font-style: normal;
@@ -12,6 +13,7 @@
    src: url(../fonts/rubik/rubik-400.woff2) format("woff2");
    font-display: swap;
  }
+
  @font-face {
    font-family: 'Rubik';
    font-style: normal;
@@ -19,6 +21,7 @@
    src: url(../fonts/rubik/rubik-700.woff2) format("woff2");
    font-display: swap;
  }
+
  body {
    font-family: 'Rubik', 'Arial', sans-serif;
    font-size: 18px;
@@ -26,6 +29,7 @@
    background-color: #FFFFFF;
    color: #444444;
  }
+
  .button {
    font-family: 'Raleway', sans-serif;
    font-weight: 800;
@@ -36,7 +40,9 @@
    color: #000000;
    text-decoration: none;
  }
+
  /*header*/
+ 
  .page-header {
    background-color: #FFE17F;
    color: #000000;
