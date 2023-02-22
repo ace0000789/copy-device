@@ -42,17 +42,19 @@
  }
 
  /*header*/
- 
+
  .page-header {
    background-color: #FFE17F;
    color: #000000;
  }
+
  .search {
    color: #000000;
    font-weight: 400;
    font-size: 16px;
    line-height: 20px;
  }
+ 
  .search-name {
    font-family: 'Rubik', sans-serif;
    background-color: #FFE17F;
