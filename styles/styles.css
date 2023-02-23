@@ -21,16 +21,15 @@
    font-weight: 700;
    src: url(../fonts/rubik/rubik-700.woff2) format("woff2");
    font-display: swap;
-
  }
 
  body {
+
    font-family: 'Rubik', 'Arial', sans-serif;
    font-size: 18px;
    line-height: 30px;
    background-color: #FFFFFF;
    color: #444444;
-   
  }
 
  .button {
