@@ -152,16 +152,17 @@ body {
 
 /*slider-table*/
 
-.table-cell {}
 
 .details-index {
   font-size: 36px;
   color: #000000;
 }
 
+
 .details-description {
   font-size: 16px;
 }
+
 
 /*group-product*/
 .group-product-link {
@@ -187,6 +188,7 @@ body {
 .exclusive-product {
   background-color: #F0F0F0;
 }
+
 
 .exclusive-delivery {
   font-family: 'Raleway', sans-serif;
@@ -218,6 +220,7 @@ body {
   font-style: normal;
   font-weight: 400;
 }
+
 
 .address-info a {
   color: #444444;
