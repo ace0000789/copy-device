@@ -356,8 +356,10 @@ body {
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #000000;
+
 }
 
 .pagination-disabled {
   color: #444444;
+
 }
