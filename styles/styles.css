@@ -138,16 +138,19 @@ body {
 /*main-index.html*/
 /*products*/
 
+
 .large-name {
+
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 50px;
   line-height: 50px;
   color: #000000;
+
 }
 
 .description {
-  
+
   font-weight: 400;
 
 }
