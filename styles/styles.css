@@ -116,20 +116,24 @@ body {
   line-height: 18px;
   letter-spacing: normal;
   text-transform: none;
+  
 }
 
 /*footer*/
+
 .page-footer {
+
   background-color: #444444;
   color: #FFFFFF;
 }
 
 .page-footer a {
+
   color: #FFFFFF;
 }
 
 .footer-info address {
-  
+
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
