@@ -79,8 +79,11 @@ body {
 }
 
 .entry {
+  
   margin-right: 26px;
+
 }
+
 
 .compare::before {
   content: url("../images/header/img-comapre.svg");
@@ -89,8 +92,9 @@ body {
 }
 
 .compare {
+
   margin-right: 36px;
-  
+
 }
 
 .basket::before {
