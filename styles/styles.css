@@ -67,19 +67,23 @@ body {
 }
 
 .user {
+  
   font-weight: 400;
   color: #000000;
   text-decoration: none;
+
 }
 
 .entry::before {
+
   content: url("../images/header/img-user.svg");
   background-repeat: no-repeat;
   margin-right: 13px;
+
 }
 
 .entry {
-  
+
   margin-right: 26px;
 
 }
