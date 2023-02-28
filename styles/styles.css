@@ -99,7 +99,9 @@ body {
 }
 
 /*header-navigation*/
+
 .navigation-item a {
+
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   line-height: 21px;
@@ -107,16 +109,18 @@ body {
   color: #000000;
   text-decoration: none;
   letter-spacing: 0.2em;
+
 }
 
 .catalog-item .navigation-link {
+
   font-family: 'Rubik', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
   letter-spacing: normal;
   text-transform: none;
-  
+
 }
 
 /*footer*/
