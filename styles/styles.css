@@ -296,11 +296,13 @@ body {
   color: #000000;
 }
 
+
 .chois-element {
   font-weight: 400;
   line-height: 20px;
   color: #000000;
 }
+
 
 /*result*/
 .result-item-link {
@@ -310,6 +312,7 @@ body {
   color: #000000;
   text-decoration: none;
 }
+
 
 .result-item-price {
   font-weight: 400;
