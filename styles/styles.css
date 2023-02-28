@@ -234,12 +234,14 @@ body {
 
 
 .mailing-address {
+  
   font-family: 'Rubik', sans-serif;
   background-color: #F0F0F0;
   font-weight: 400;
   font-size: 18px;
   line-height: 30px;
   color: #444444;
+
 }
 
 
@@ -258,6 +260,7 @@ body {
 /*main-catalog-monopods.html*/
 
 .breadcrumbs-link {
+
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
@@ -268,6 +271,7 @@ body {
 /*sorting*/
 
 .chois {
+
   background-color: #F0F0F0;
 }
 
@@ -283,7 +287,7 @@ body {
 }
 
 .sorting select {
-  
+
   font-weight: 400;
   color: #000000;
   background-color: #F0F0F0;
