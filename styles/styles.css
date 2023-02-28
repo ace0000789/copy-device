@@ -305,7 +305,9 @@ body {
 
 
 /*result*/
+
 .result-item-link {
+
   font-weight: 700;
   line-height: 20px;
   letter-spacing: -0.02em;
@@ -321,6 +323,7 @@ body {
 }
 
 .upload-result {
+
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 16px;
