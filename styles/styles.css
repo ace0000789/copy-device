@@ -161,11 +161,14 @@ body {
 
 .details-description {
   font-size: 16px;
+  
 }
 
 
 /*group-product*/
+
 .group-product-link {
+
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   line-height: 24px;
