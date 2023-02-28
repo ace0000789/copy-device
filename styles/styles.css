@@ -283,13 +283,16 @@ body {
 }
 
 .sorting select {
+  
   font-weight: 400;
   color: #000000;
   background-color: #F0F0F0;
 }
 
 /*filters*/
+
 .filter-name {
+
   font-weight: 700;
   line-height: 20px;
   letter-spacing: -0.02em;
