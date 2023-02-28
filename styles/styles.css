@@ -333,11 +333,14 @@ body {
 }
 
 /*padination*/
+
 .result-pagination {
+
   background-color: #EBEBEB;
 }
 
 .result-pagination-link {
+
   text-decoration: none;
   font-weight: 400;
   font-size: 16px;
@@ -348,6 +351,7 @@ body {
 }
 
 .control {
+
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
