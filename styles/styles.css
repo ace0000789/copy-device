@@ -232,6 +232,7 @@ body {
   background-color: #F0F0F0;
 }
 
+
 .mailing-address {
   font-family: 'Rubik', sans-serif;
   background-color: #F0F0F0;
@@ -240,6 +241,7 @@ body {
   line-height: 30px;
   color: #444444;
 }
+
 
 .send-mailing-form {
   background-color: #F0F0F0;
@@ -264,9 +266,11 @@ body {
 }
 
 /*sorting*/
+
 .chois {
   background-color: #F0F0F0;
 }
+
 
 .chois h2 {
   font-family: 'Raleway', sans-serif;
