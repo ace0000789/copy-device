@@ -217,24 +217,28 @@ body {
 }
 
 .contacts address {
+  
   font-style: normal;
   font-weight: 400;
 }
 
 
 .address-info a {
+
   color: #444444;
+
 }
 
 /*mailing*/
 
 .mailing {
+
   background-color: #F0F0F0;
 }
 
 
 .mailing-address {
-  
+
   font-family: 'Rubik', sans-serif;
   background-color: #F0F0F0;
   font-weight: 400;
