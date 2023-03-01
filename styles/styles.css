@@ -162,17 +162,14 @@ body {
   color: #000000;
 }
 
-
 .details-description {
   font-size: 16px;
-
 }
 
 
 /*group-product*/
 
 .group-product-link {
-
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   line-height: 24px;
@@ -184,7 +181,6 @@ body {
 /*services*/
 
 .services {
-
   background-color: #F0F0F0;
 }
 
