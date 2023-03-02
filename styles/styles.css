@@ -105,14 +105,12 @@ body {
 }
 
 .catalog-item .navigation-link {
-
   font-family: 'Rubik', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
   letter-spacing: normal;
   text-transform: none;
-
 }
 
 /*footer*/
@@ -121,7 +119,6 @@ body {
   background-color: #444444;
   color: #FFFFFF;
 }
-
 .page-footer a {
   color: #FFFFFF;
 }
